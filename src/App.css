@@ -58,12 +58,12 @@ a {
   -webkit-text-fill-color: transparent;
 }
 
-.section_padding {
+.section__padding {
   padding: 4rem 6rem;
 }
 
-.section_margin {
-  padding: 4rem 6rem;
+.section__margin {
+  margin: 4rem 6rem;
 }
 
 .scale-up-center {
@@ -102,7 +102,6 @@ a {
     margin: 4rem;
   }
 }
-
 
 @media screen and (max-width: 550px) {
   .section__padding {
